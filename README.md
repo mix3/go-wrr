@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/mix3/go-wrr.svg?branch=master)](https://travis-ci.org/mix3/go-wrr)
+[![Coverage Status](https://coveralls.io/repos/mix3/go-wrr/badge.png?branch=master)](https://coveralls.io/r/mix3/go-wrr?branch=master)
+
 # go-wrr
 
 from cpan module [Data::WeightedRoundRobin](https://metacpan.org/pod/Data::WeightedRoundRobin)
